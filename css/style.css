@@ -28,6 +28,12 @@ h6,
 p{
     margin-bottom: 15px;
 }
+.clearM{
+    margin:0;
+}
+.clearP{
+    padding:0;
+}
 #go{
     transform:translateX(-50%);
     left:50%;
@@ -157,6 +163,10 @@ p{
 }
 /* resume css */
 /* portfolio css */
+.isotope .element-item{
+    width:33.33%;
+    float:left;
+}
 /* team css */
 /* contact css */
 /* google-map css */
